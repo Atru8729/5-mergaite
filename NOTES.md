@@ -9,7 +9,7 @@
   - iterpti nuoroda, kur tas musu kodas gali buti pamatytas
 - [x] atlikti dizaino analize
 - [X] surasyti HTML
-- [ ] issikirpti nuotraukas ir jas panaudoti
+- [x] issikirpti nuotraukas ir jas panaudoti
   - panaudoti reliatyvu kelia
   - png formatas, del permatomumo savybes
 - [ ] aprasome stiliu:
@@ -22,3 +22,14 @@
 
     apie cia naudojama rasymo sintakse (md - markdown)
 https://guides.github.com/features/mastering-markdown/
+
+
+
+
+
+
+# Paint.net naudojimas
+
+Norint iskirpti fona:
+1. magiswand -> tolerance
+2. 

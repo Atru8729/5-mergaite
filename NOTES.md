@@ -31,5 +31,7 @@ https://guides.github.com/features/mastering-markdown/
 # Paint.net naudojimas
 
 Norint iskirpti fona:
-1. magiswand -> tolerance
-2. 
+1. Magic wand -> tolerance
+2. ctrl + i
+3. crtl + shift + x
+4. ctrl + s

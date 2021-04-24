@@ -25,9 +25,6 @@ https://guides.github.com/features/mastering-markdown/
 
 
 
-
-
-
 # Paint.net naudojimas
 
 Norint iskirpti fona:

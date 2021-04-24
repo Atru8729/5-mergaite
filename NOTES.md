@@ -13,10 +13,16 @@
   - panaudoti reliatyvu kelia
   - png formatas, del permatomumo savybes
 - [ ] aprasome stiliu:
-    - turinys turi buti centre
-    - pagrindinis dydis turi buti fiksuotas
-    - siliu (CSS) atskirti nuo HTML
+  - turinys turi buti centre
+  - pagrindinis dydis turi buti fiksuotas
+  - siliu (CSS) atskirti nuo HTML
 
+    # HTML/CSS rasymo strategija
+
+  1. israsyti kiek imanoma (isivaizduojama) HTML
+  2. issirasyti CSS selektorius (selector)
+  3. pradedant nuo labiausiai tevinio (is virsaus) selektoriaus, surasome reikiamus stilius
+  4. REPEAT - go to step 1
 
     # Pasiskaitymui
 
